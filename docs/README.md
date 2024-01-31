@@ -7,7 +7,7 @@ I am a second-year student pursuing an undergraduate Mechanical Engineering degr
 
 I take a special interest in the future of cars, space exploration, and design. I always appreciate connecting with individuals who share my passion for design, tech, and vehicles. I am currently looking for internship opportunities that would help me cultivate and further hone skills in Automotive/Mechanical Engineering and challenge me intellectually.
 
-Need to [contact](./contact.md) me? <br>
+Need my [resume?](./resume.md). <br>
 
 ## 👨‍🎓 Education
 **Northwestern University**, Evanston, IL	_(Sep 2022 - June 2026 (anticipated)_ <br>
