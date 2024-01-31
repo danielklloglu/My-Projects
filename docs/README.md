@@ -42,6 +42,9 @@ Worked on real design problems submitted by individuals, non-profits, entreprene
 Product: [_The Ark_](./theark.md) <br>
   - Designed a durable, ergonomic, sustainable, and secure steering rack cover for a Formula SAE car
   - Improved driver safety and leg space while preserving ideal leg position for acceleration and braking <br>
+  
+![The Ark](./assets/theark1)
+<br>
 
 **Client**: Trees That Feed Foundation <br>
 Product: [_Aeroflect_](./aeroflect.md) <br>
