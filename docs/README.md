@@ -1,13 +1,21 @@
 # Daniel Kıllıoğlu
 _Mechanical engineer and design enthusiast based in Chicago and Istanbul 🇹🇷🇺🇸_ <br>
 
-[Email](mailto:danielklloglu@gmail.com) / [LinkedIn](www.linkedin.com/in/danielkillioglu)
+[Email](mailto:danielklloglu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danielkillioglu)
 
 I am a second-year student pursuing an undergraduate Mechanical Engineering degree at Northwestern University's McCormick School of Engineering and Applied Science. I aim to combine my user-centered design and engineering knowledge to find practical and creative solutions with an aesthetic twist.
 
 I take a special interest in the future of cars, space exploration, and design. I always appreciate connecting with individuals who share my passion for design, tech, and vehicles. I am currently looking for internship opportunities that would help me cultivate and further hone skills in Automotive/Mechanical Engineering and challenge me intellectually.
 
 Need to [contact](./contact.md) me?
+
+## 👨‍🎓 Education
+**Northwestern University**, Evanston, IL	_(Sep 2022 - June 2026 (anticipated)_
+Bachelor of Science in Mechanical Engineering	_GPA: 3.8/4_
+Robert R. McCormick School of Engineering and Applied Sciences
+
+**Robert College**, Istanbul, TR _(Sep 2017 - June 2022)_ <br> 
+<br><br>
 
 ## 🧑‍💻 Engineering Experience
 
