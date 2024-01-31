@@ -14,7 +14,7 @@ Need my [resume?](./resume.md) <br>
 Bachelor of Science in Mechanical Engineering	_GPA: 3.8/4_ <br>
 Robert R. McCormick School of Engineering and Applied Sciences
 
-**Robert College**, Istanbul, TR _(Sep 2017 - June 2022)_ <br> 
+**Robert College**, Istanbul, TR _(Sep 2017 - June 2022)_
 <br>
 
 ## ⚙️ Technical Skills
@@ -36,13 +36,18 @@ Formula SAE team based in Northwestern University.
 ![Pedalbox Design in Solidworks](./assets/formula1.png)
 <br>
 
-**Chassis Design Engineer** @ [Northwestern Formula Racing]((https://northwesternformularacing.com/)) _(Sep 2022 - Present)_ <br>
-Formula SAE team based in Northwestern University.
-  - Designed the pedal box (baseplate, throttle pedal, brake pedal, and throttle springs) to specific competition regulations, stress requirements, and manufacturability constraints (DFM)
-  - Implemented torsional springs to improve the driveability of the car and initial throttle response
-  - Collaborated with chassis, electronics, and suspension engineers to integrate their requirements into the design
-  - Integrated Engineering Sketches (GD&T), Computer-Aided Design (CAD), and Finite Element Analysis (FEA)
-  - Manufactured the components using CNC, Lathe, and Mill
+**Product Design Engineer** @ [Segal Design Institute DTC Program]((https://https://design.northwestern.edu/programs/take-design-course/design-thinking-communication//)) _(September 2022 - June 2023)_ <br>
+Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members.
+### Client: Northwestern Formula Racing
+Product: _The Ark_
+  - Designed a durable, ergonomic, sustainable, and secure steering rack cover for a Formula SAE car
+  - Improved driver safety and leg space while preserving ideal leg position for acceleration and braking <br>
+
+### Client: Trees That Feed Foundation
+Product: _Aeroflect_
+  - Led a four-member team
+  - Improved the drying time of a Hybrid Solar Dryer used in fruit farms in over 20 countries
+  - Achieved more uniform drying
 
 <br>
 
