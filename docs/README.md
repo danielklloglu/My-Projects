@@ -37,18 +37,17 @@ Formula SAE team based in Northwestern University.
 <br>
 
 **Product Design Engineer** @ [Segal Design Institute DTC Program]((https://https://design.northwestern.edu/programs/take-design-course/design-thinking-communication//)) _(September 2022 - June 2023)_ <br>
-Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members.
-**Client**: Northwestern Formula Racing
+Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
+**Client**: Northwestern Formula Racing <br>
 Product: [_The Ark_](./theark.md) <br>
   - Designed a durable, ergonomic, sustainable, and secure steering rack cover for a Formula SAE car
   - Improved driver safety and leg space while preserving ideal leg position for acceleration and braking <br>
 
-**Client**: Trees That Feed Foundation
+**Client**: Trees That Feed Foundation <br>
 Product: [_Aeroflect_](./aeroflect.md) <br>
   - Led a four-member team
   - Improved the drying time of a Hybrid Solar Dryer used in fruit farms in over 20 countries
   - Achieved more uniform drying
-
 <br>
 
 ## 💬 Languages
