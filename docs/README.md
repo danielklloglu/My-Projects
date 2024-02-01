@@ -43,7 +43,7 @@ Formula SAE team based in Northwestern University.
 ![Pedalbox Design in Solidworks](./assets/formula1.png)
 <br>
 
-**Product Design Engineer** @ [Segal Design Institute DTC Program]((https://https://design.northwestern.edu/programs/take-design-course/design-thinking-communication//)) _(September 2022 - June 2023)_ <br>
+**Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication//)) _(September 2022 - June 2023)_ <br>
 Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
 **Client**: Northwestern Formula Racing <br>
 Product: [_The Ark_](./theark.md) <br>
@@ -70,7 +70,7 @@ _(September 2020 - October 2022)_ <br>
   - Experimented with monetization strategies and ways of reaching new audiences/customers
   - Increased audience reach and by 250% <br>
 
-**Radio Host** @ [89.3 WNUR-FM](https://https://wnur.northwestern.edu/) <br>
+**Radio Host** @ [89.3 WNUR-FM](https://wnur.northwestern.edu/) <br>
 _(September 2022 - Present)_ <br>
   - Directed weekly rock radio shows
   - Gave exposure to underground artists of the greater Chicago area
