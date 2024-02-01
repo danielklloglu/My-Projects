@@ -61,7 +61,7 @@ Product: [_Aeroflect_](./aeroflect.md) <br>
 
 ## 📊 Work Experience
 
-**Head Content Manager and Outreach Coordinator** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) <br>
+**Head Content Manager and Outreach Coordinator** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) [Instagram](https://www.instagram.com/thealtrockloop/?hl=en/) <br>
 _(September 2020 - October 2022)_ <br>
   - An entertainment media network focused on arts & music.
   - Co-built an entertainment media network focused on arts & music
