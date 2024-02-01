@@ -16,8 +16,8 @@ Robert R. McCormick School of Engineering and Applied Sciences
 <br>
 
 ## ⚙️ Technical Skills
-*Computer-Based*: SolidWorks (CAD),  3DEXPERIENCE, MATLAB, Python, Microsoft Office, Google Sheets, Finite Element Analysis (FEA), Design for Manufacturing (DFM), Final Cut Pro, Logic Pro, Adobe Illustrator, Adobe Photoshop
-*Manufacturing*: Computer-Aided Manufacturing (CAM), Laser Cutter, Prototyping, Metalworking, CNC
+*Computer-Based*: SolidWorks (CAD),  3DEXPERIENCE, MATLAB, Python, Microsoft Office, Google Sheets, Finite Element Analysis (FEA), Design for Manufacturing (DFM), Final Cut Pro, Logic Pro, Adobe Illustrator, Adobe Photoshop <br>
+*Manufacturing*: Computer-Aided Manufacturing (CAM), Laser Cutter, Prototyping, Metalworking, CNC <br>
 *Soft-Skills*: Work Ethic, Multicultural Communication, Adaptability, Effective Collaboration
 <br>
 
