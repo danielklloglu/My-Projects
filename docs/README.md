@@ -23,6 +23,13 @@ Robert R. McCormick School of Engineering and Applied Sciences
 *Soft-Skills*: Work Ethic, Multicultural Communication, Adaptability, Effective Collaboration
 <br>
 
+## 💬 Languages
+
+🇺🇸 **English**: Native <br>
+🇹🇷 **Turkish**: Native <br>
+🇩🇪 **German**: Limited Working Proficiency
+<br>
+
 ## 🧑‍💻 Engineering Experience
 
 **Chassis Design Engineer** @ [Northwestern Formula Racing]((https://northwesternformularacing.com/)) _(Sep 2022 - Present)_ <br>
@@ -53,9 +60,13 @@ Product: [_Aeroflect_](./aeroflect.md) <br>
   - Achieved more uniform drying
 <br>
 
-## 💬 Languages
+## 📊 Work Experience
 
-🇺🇸 **English**: Native <br>
-🇹🇷 **Turkish**: Native <br>
-🇩🇪 **German**: Limited Working Proficiency
-<br><br>
+**Head Content Manager and Outreach Coordinator, ** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) <br>
+_(September 2020 - October 2022)_ <br>
+  - An entertainment media network focused on arts & music.
+  - Co-built an entertainment media network focused on arts & music
+  - Managed a team of content creators and writers to create engaging and effective content
+  - Experimented with monetization strategies and ways of reaching new audiences/customers
+  - Increased audience reach and by 250% <br>
+
