@@ -10,7 +10,7 @@ I take a special interest in the future of cars, space exploration, and design. 
 Need my [resume?](./resume.md) <br>
 
 ## 👨‍🎓 Education
-**Northwestern University**, Evanston, IL	_(Sep 2022 - June 2026 (anticipated)_ <br>
+**Northwestern University**, Evanston, IL	<br> _(Sep 2022 - June 2026 (anticipated))_ <br>
 Bachelor of Science in Mechanical Engineering	_GPA: 3.8/4_ <br>
 Robert R. McCormick School of Engineering and Applied Sciences
 
