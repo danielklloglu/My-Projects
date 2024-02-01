@@ -1,13 +1,11 @@
 # Daniel Kıllıoğlu
 _Mechanical engineer and design enthusiast based in Chicago and Istanbul 🇹🇷🇺🇸_ <br>
 
-[Email](mailto:danielklloglu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danielkillioglu/)
+[Email](mailto:danielklloglu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danielkillioglu/) / [Resume](./resume.md)
 
 I am a second-year student pursuing an undergraduate Mechanical Engineering degree at Northwestern University's McCormick School of Engineering and Applied Science. I aim to combine my user-centered design and engineering knowledge to find practical and creative solutions with an aesthetic twist.
 
-I take a special interest in the future of cars, space exploration, and design. I always appreciate connecting with individuals who share my passion for design, tech, and vehicles. I am currently looking for internship opportunities that would help me cultivate and further hone skills in Automotive/Mechanical Engineering and challenge me intellectually.
-
-Need my [resume?](./resume.md) <br>
+I take a special interest in the future of cars, space exploration, and design. I always appreciate connecting with individuals who share my passion for design, tech, and vehicles. I am currently looking for internship opportunities that would help me cultivate and further hone skills in Automotive/Mechanical Engineering and challenge me intellectually. <br>
 
 ## 👨‍🎓 Education
 **Northwestern University**, Evanston, IL	<br> _(Sep 2022 - June 2026 (anticipated))_ <br>
@@ -43,7 +41,7 @@ Formula SAE team based in Northwestern University.
 ![Pedalbox Design in Solidworks](./assets/formula1.png)
 <br>
 
-**Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication//)) _(September 2022 - June 2023)_ <br>
+**Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/)) _(September 2022 - June 2023)_ <br>
 Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
 **Client**: Northwestern Formula Racing <br>
 Product: [_The Ark_](./theark.md) <br>
