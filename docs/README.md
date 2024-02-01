@@ -62,11 +62,16 @@ Product: [_Aeroflect_](./aeroflect.md) <br>
 
 ## 📊 Work Experience
 
-**Head Content Manager and Outreach Coordinator, ** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) <br>
+**Head Content Manager and Outreach Coordinator** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) <br>
 _(September 2020 - October 2022)_ <br>
   - An entertainment media network focused on arts & music.
   - Co-built an entertainment media network focused on arts & music
   - Managed a team of content creators and writers to create engaging and effective content
   - Experimented with monetization strategies and ways of reaching new audiences/customers
   - Increased audience reach and by 250% <br>
+
+**Radio Host** @ [89.3 WNUR-FM](https://https://wnur.northwestern.edu/) <br>
+_(September 2022 - Present)_ <br>
+  - Directed weekly rock radio shows
+  - Gave exposure to underground artists of the greater Chicago area
 
