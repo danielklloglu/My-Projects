@@ -43,6 +43,7 @@ Formula SAE team based in Northwestern University.
 
 **Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/)) _(September 2022 - June 2023)_ <br>
 Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
+<br>
 **Client**: Northwestern Formula Racing <br>
 Product: [_The Ark_](./theark.md) <br>
   - Designed a durable, ergonomic, sustainable, and secure steering rack cover for a Formula SAE car
@@ -66,7 +67,8 @@ _(September 2020 - October 2022)_ <br>
   - Co-built an entertainment media network focused on arts & music
   - Managed a team of content creators and writers to create engaging and effective content
   - Experimented with monetization strategies and ways of reaching new audiences/customers
-  - Increased audience reach and by 250% <br>
+  - Used Adobe Illustrator, Photoshop, and Figma to create content
+  - Increased audience reach by 250% <br>
 
 **Radio Host** @ [89.3 WNUR-FM](https://wnur.northwestern.edu/) <br>
 _(September 2022 - Present)_ <br>
