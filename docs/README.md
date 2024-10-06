@@ -42,15 +42,13 @@ Robert R. McCormick School of Engineering and Applied Sciences
 <br>
 
 **Chassis and Suspension Design Engineer** @ [Northwestern Formula Racing]((https://northwesternformularacing.com/)) _(Sep 2022 - Present)_ <br>
-Formula SAE team based in Northwestern University. <br>
 • Designed pedal box, wheel hubs, and steering rack to Formula SAE regulations and manufacturability constraints <br>
 • Implemented a new throttle return system consisting of torsional springs and rotational potentiometer for smoother throttle return and more precise throttle sensing <br>
 • Manufactured parts in-house using Mill, Lathe, and CNC <br>
 • Validated quality and function of final parts through throttle sensor analysis and field testing <br>
 
-![Pedalbox Design in Solidworks](./assets/newpedalbox.png)
-<br>
-![Rear Hubs Design in Solidworks](./assets/HUBS.png)
+![Pedalbox Design in Solidworks](./assets/newpedalbox.png) <br>
+![Rear Hubs Design in Solidworks](./assets/HUBS.png) <br>
 
 **Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/)) _(September 2022 - June 2023)_ <br>
 Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
@@ -65,24 +63,22 @@ Product: [_The Ark_](./theark.md) <br>
 
 **Client**: Trees That Feed Foundation <br>
 Product: [_Aeroflect_](./aeroflect.md) <br>
-  • Led a four-member team
-  • Improved the drying time of a Hybrid Solar Dryer used in fruit farms in over 20 countries
-  • Achieved more uniform drying
+  • Improved drying time of the Trees That Feed Foundation's Hybrid Solar Dryer by 15% used in affiliated fruit farms in over 14 countries <br>
+  • Performed user requirements research with bread fruit farmers to facilitate product advancements for global application; led in depth interviews with existing clients and performed market analysis of similar products
 <br>
 
 ## 📊 Projects
 
 **Head Content Manager and Outreach Coordinator** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) [Instagram](https://www.instagram.com/thealtrockloop/?hl=en/) <br>
 _(September 2020 - October 2022)_ <br>
-  • An entertainment media network focused on arts & music. <br>
   • Co-built an entertainment media network focused on arts & music <br>
-  • Managed a team of content creators and writers to create engaging and effective content <br>
-  • Experimented with monetization strategies and ways of reaching new audiences/customers <br>
+  • Oversaw and contributed to publication of 100+ articles, 3000+ posts and gained 40K+ followers <br>
+  • Streamlined content publishing process to increase weekly content output of each writer from 4 to 6 <br>
+  • Developed a more flexible monetization strategy to increase average revenue per account by 17% and customer retention by 11% <br>
   • Used Adobe Illustrator, Photoshop, and Figma to create content <br>
-  • Increased audience reach by 250% <br>
 
 **Radio Host** @ [89.3 WNUR-FM](https://wnur.northwestern.edu/) <br>
 _(September 2022 - Present)_ <br>
-  - Directed weekly rock radio shows
-  - Gave exposure to underground artists of the greater Chicago area
+  • Directed weekly rock radio shows with a focus on underground artists of greater Chicago area <br>
+  • Operated and set up broadcasting equipment such as transmitters, mixing boards, and microphones to produce highquality, balanced audio content for live shows
 
