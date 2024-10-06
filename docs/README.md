@@ -7,7 +7,7 @@ Hello! I am a third-year student pursuing an undergraduate Mechanical Engineerin
 
 I take a special interest in the future of cars, music technology, and design. I always appreciate connecting with individuals who share my passion for design, tech, and vehicles. I am currently looking for internship opportunities that would help me cultivate and further hone skills in Automotive/Mechanical Engineering and challenge me intellectually. <br>
 
-![NFR24](./assets/meinacar.JPEG)
+![NFR24](./assets/MeNFR24.png)
 <br>
 
 ## 👨‍🎓 Education
@@ -42,6 +42,9 @@ developed a new concept, reducing stress concentrations by 40%
 feature, providing a low-cost alternative to a current solution
 • Coordinated simulation, prototyping, testing, and manufacturing processes of three new concepts via engineering
 drawings and GD&T <br>
+
+![Actros Truck](./assets/MercTruck.png)
+<br>
 
 **Chassis and Suspension Design Engineer** @ [Northwestern Formula Racing]((https://northwesternformularacing.com/)) _(Sep 2022 - Present)_ <br>
 Formula SAE team based in Northwestern University.
