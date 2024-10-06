@@ -50,6 +50,7 @@ Formula SAE team based in Northwestern University. <br>
 
 ![Pedalbox Design in Solidworks](./assets/newpedalbox.png)
 <br>
+![Rear Hubs Design in Solidworks](./assets/HUBS.png)
 
 **Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/)) _(September 2022 - June 2023)_ <br>
 Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
