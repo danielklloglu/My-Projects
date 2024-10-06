@@ -19,9 +19,9 @@ Robert R. McCormick School of Engineering and Applied Sciences
 <br>
 
 ## ⚙️ Technical Skills
-• *Computer-Based*: Siemens NX, SolidWorks, MATLAB, Python, Microsoft Office, Finite Element Analysis (FEA), 3DEXPERIENCE, Adobe Illustrator, Figma <br>
-• *Manufacturing*: Computer-Aided Manufacturing (CAM), Laser Cutter, Prototyping, CNC, Molding, Injection Molding, Die Casting, Sheet Metal Forming <br>
-• *Soft-Skills*: Work Ethic, Multicultural Communication, Adaptability, Effective Collaboration
+• **Computer-Based**: Siemens NX, SolidWorks, MATLAB, Python, Microsoft Office, Finite Element Analysis (FEA), 3DEXPERIENCE, Adobe Illustrator, Figma <br>
+• **Manufacturing**: Computer-Aided Manufacturing (CAM), Laser Cutter, Prototyping, CNC, Molding, Injection Molding, Die Casting, Sheet Metal Forming <br>
+• **Soft-Skills**: Work Ethic, Multicultural Communication, Adaptability, Effective Collaboration
 <br>
 
 ## 💬 Languages
