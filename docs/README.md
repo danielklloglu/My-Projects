@@ -7,6 +7,9 @@ Hello! I am a third-year student pursuing an undergraduate Mechanical Engineerin
 
 I take a special interest in the future of cars, music technology, and design. I always appreciate connecting with individuals who share my passion for design, tech, and vehicles. I am currently looking for internship opportunities that would help me cultivate and further hone skills in Automotive/Mechanical Engineering and challenge me intellectually. <br>
 
+![NFR24](./assets/meinacar.JPEG)
+<br>
+
 ## 👨‍🎓 Education
 **Northwestern University**, Evanston, IL	<br> _(Sep 2022 - June 2026 (anticipated))_ <br>
 Bachelor of Science in Mechanical Engineering	_GPA: 3.8/4_ <br>
@@ -47,7 +50,7 @@ Formula SAE team based in Northwestern University.
 • Manufactured parts in-house using Mill, Lathe, and CNC
 • Validated quality and function of final parts through throttle sensor analysis and field testing <br>
 
-![Pedalbox Design in Solidworks](./assets/formula1.png)
+![Pedalbox Design in Solidworks](./assets/newpedalbox.png)
 <br>
 
 **Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/)) _(September 2022 - June 2023)_ <br>
