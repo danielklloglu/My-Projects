@@ -28,29 +28,24 @@ Robert R. McCormick School of Engineering and Applied Sciences
 
 🇺🇸 **English**: Native <br>
 🇹🇷 **Turkish**: Native <br>
-🇩🇪 **German**: Limited Working Proficiency
-<br>
+🇩🇪 **German**: Limited Working Proficiency <br>
 
 ## 🧑‍💻 Engineering Experience
 
-**Truck R&D Engineer Intern** @ Mercedes-Benz Türk A.S. _(July 2024 - October 2024)_
-• Investigated a user-interacting component by kinematic simulation in Siemens NX and optimized it for ergonomics,
-cost, and injection molding
-• Analyzed stress concentrations on connection points of a sheet metal component with Finite Elements Analysis and
-developed a new concept, reducing stress concentrations by 40%
-• Designed a self-activating flap system with die cast components to accommodate a new electric truck charging
-feature, providing a low-cost alternative to a current solution
-• Coordinated simulation, prototyping, testing, and manufacturing processes of three new concepts via engineering
-drawings and GD&T <br>
+**Truck R&D Engineer Intern** @ Mercedes-Benz Türk A.S. _(July 2024 - October 2024)_ <br>
+• Investigated a user-interacting component by kinematic simulation in Siemens NX and optimized it for ergonomics, cost, and injection molding <br>
+• Analyzed stress concentrations on connection points of a sheet metal component with Finite Elements Analysis and developed a new concept, reducing stress concentrations by 40% <br>
+• Designed a self-activating flap system with die cast components to accommodate a new electric truck charging feature, providing a low-cost alternative to a current solution <br>
+• Coordinated simulation, prototyping, testing, and manufacturing processes of three new concepts via engineering drawings and GD&T <br>
 
 ![Actros Truck](./assets/MercTruck.png)
 <br>
 
 **Chassis and Suspension Design Engineer** @ [Northwestern Formula Racing]((https://northwesternformularacing.com/)) _(Sep 2022 - Present)_ <br>
-Formula SAE team based in Northwestern University.
-• Designed pedal box, wheel hubs, and steering rack to Formula SAE regulations and manufacturability constraints
-• Implemented a new throttle return system consisting of torsional springs and rotational potentiometer for smoother throttle return and more precise throttle sensing
-• Manufactured parts in-house using Mill, Lathe, and CNC
+Formula SAE team based in Northwestern University. <br>
+• Designed pedal box, wheel hubs, and steering rack to Formula SAE regulations and manufacturability constraints <br>
+• Implemented a new throttle return system consisting of torsional springs and rotational potentiometer for smoother throttle return and more precise throttle sensing <br>
+• Manufactured parts in-house using Mill, Lathe, and CNC <br>
 • Validated quality and function of final parts through throttle sensor analysis and field testing <br>
 
 ![Pedalbox Design in Solidworks](./assets/newpedalbox.png)
@@ -61,7 +56,7 @@ Worked on real design problems submitted by individuals, non-profits, entreprene
 <br>
 **Client**: Northwestern Formula Racing <br>
 Product: [_The Ark_](./theark.md) <br>
-  • Designed a durable, ergonomic, sustainable, and secure steering rack cover for a Formula SAE car
+  • Designed a durable, ergonomic, sustainable, and secure steering rack cover for a Formula SAE car <br>
   • Improved driver safety and leg space while preserving ideal leg position for acceleration and braking <br>
   
 ![The Ark](./assets/theark1)
@@ -69,21 +64,21 @@ Product: [_The Ark_](./theark.md) <br>
 
 **Client**: Trees That Feed Foundation <br>
 Product: [_Aeroflect_](./aeroflect.md) <br>
-  - Led a four-member team
-  - Improved the drying time of a Hybrid Solar Dryer used in fruit farms in over 20 countries
-  - Achieved more uniform drying
+  • Led a four-member team
+  • Improved the drying time of a Hybrid Solar Dryer used in fruit farms in over 20 countries
+  • Achieved more uniform drying
 <br>
 
 ## 📊 Projects
 
 **Head Content Manager and Outreach Coordinator** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) [Instagram](https://www.instagram.com/thealtrockloop/?hl=en/) <br>
 _(September 2020 - October 2022)_ <br>
-  - An entertainment media network focused on arts & music.
-  - Co-built an entertainment media network focused on arts & music
-  - Managed a team of content creators and writers to create engaging and effective content
-  - Experimented with monetization strategies and ways of reaching new audiences/customers
-  - Used Adobe Illustrator, Photoshop, and Figma to create content
-  - Increased audience reach by 250% <br>
+  • An entertainment media network focused on arts & music. <br>
+  • Co-built an entertainment media network focused on arts & music <br>
+  • Managed a team of content creators and writers to create engaging and effective content <br>
+  • Experimented with monetization strategies and ways of reaching new audiences/customers <br>
+  • Used Adobe Illustrator, Photoshop, and Figma to create content <br>
+  • Increased audience reach by 250% <br>
 
 **Radio Host** @ [89.3 WNUR-FM](https://wnur.northwestern.edu/) <br>
 _(September 2022 - Present)_ <br>
