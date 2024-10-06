@@ -1,5 +1,6 @@
 # Daniel Kıllıoğlu
-_Junior Mechanical Engineering Student. All things engineering, design, and music. Based in Chicago and Istanbul 🇹🇷🇺🇸_ <br>
+_Junior Mechanical Engineering Student. <br>
+All things engineering, design, and music. Based in Chicago and Istanbul 🇹🇷🇺🇸_ <br>
 
 [Email](mailto:danielklloglu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danielkillioglu/)
 
@@ -49,6 +50,11 @@ Robert R. McCormick School of Engineering and Applied Sciences
 
 ![Pedalbox Design in Solidworks](./assets/newpedalbox.png) <br>
 ![Rear Hubs Design in Solidworks](./assets/HUBS.png) <br>
+
+
+** System Dynamics Simulations using Python ** 
+![Triple Pendulum Hitting a Wall](./assets/TriplePendulum.gif) <br>
+![Triple Pendulum Hitting a Wall](./assets/jackinabox.gif) <br>
 
 **Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/)) _(September 2022 - June 2023)_ <br>
 Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
