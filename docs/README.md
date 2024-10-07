@@ -76,7 +76,16 @@ Product: [_Aeroflect_](./aeroflect.md) <br>
   • Improved drying time of the Trees That Feed Foundation's Hybrid Solar Dryer by 15% used in affiliated fruit farms in over 14 countries <br>
   • Performed user requirements research with bread fruit farmers to facilitate product advancements for global application; led in depth interviews with existing clients and performed market analysis of similar products <br>
 
-![Aeroflect](./assets/aeroflect2.JPG) <br>
+**TTFF Hybrid Solar Dryer** <br>
+![Aeroflect](./assets/treesthatfeed.png) <br>
+
+**Air Flow Testing** <br>
+![Aeroflect](./assets/testing1.JPG) <br>
+![Aeroflect](./assets/testing2..JPG) <br>
+![Aeroflect](./assets/testing3.JPG) <br>
+
+**Final Air Channel + Mirror Updgrade Module** <br>
+![Aeroflect](./assets/aeroflectfinals.png) <br>
 
 ## 📊 Projects
 
