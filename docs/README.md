@@ -74,8 +74,9 @@ Product: [_The Ark_](./theark.md) <br>
 **Client**: Trees That Feed Foundation <br>
 Product: [_Aeroflect_](./aeroflect.md) <br>
   • Improved drying time of the Trees That Feed Foundation's Hybrid Solar Dryer by 15% used in affiliated fruit farms in over 14 countries <br>
-  • Performed user requirements research with bread fruit farmers to facilitate product advancements for global application; led in depth interviews with existing clients and performed market analysis of similar products
-<br>
+  • Performed user requirements research with bread fruit farmers to facilitate product advancements for global application; led in depth interviews with existing clients and performed market analysis of similar products <br>
+
+![Aeroflect](./assets/aeroflect2.JPG) <br>
 
 ## 📊 Projects
 
