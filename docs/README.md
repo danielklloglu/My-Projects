@@ -49,8 +49,9 @@ Robert R. McCormick School of Engineering and Applied Sciences
   • Validated quality and function of final parts through throttle sensor analysis and field testing <br>
 
 ![Pedalbox Design in Solidworks](./assets/newpedalbox.png) <br>
+**Pedalbox in NFR24** <br>
+![Manufactured Pedalbox in Car](./assets/realpedalbox.png) <br>
 ![Rear Hubs Design in Solidworks](./assets/HUBS.png) <br>
-
 
 **System Dynamics Simulations using Python** <br>
   • Used python code and dynamics equations to simulate various systems over time
