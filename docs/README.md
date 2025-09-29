@@ -29,9 +29,9 @@ High School Diploma | *Sep 2017 – Jun 2022*
 
 ## ⚙️ Technical Skills  
 
-- **CAD & Simulation:** Siemens NX, SolidWorks, 3DEXPERIENCE, FEA (ANSYS, NX)  
-- **Programming:** Python, MATLAB, C/C++, Embedded Systems, Control Systems  
-- **Manufacturing:** CNC, CAM, Injection Molding, Die Casting, Sheet Metal, 3D Printing, Laser Cutting  
+- **Mechanical Design:** Siemens NX, SolidWorks, Fusion 360, AutoCAD, GD&T, P&ID, Injection Molding, Sheet Metal Forming, Casting, CNC Machining, 3D Printing, Rapid Prototyping
+- **Simulation & Analysis:** MATLAB, ANSYS, Simulink, Topology Optimization, Kinetic Simulation
+- **Programming & Electronics:** Python, C, Embedded Systems, PID Motor Control, SPI, I²C, Raspberry, PIC
 - **Design Tools:** Adobe Illustrator, Figma  
 - **Core Strengths:** Collaboration, Cross-Cultural Communication, Adaptability, Problem Solving  
 
@@ -69,6 +69,17 @@ Mercedes-Benz Türk A.S. | *Jul 2024 – Oct 2024*
 
 ---
 
+## 🚦 Project Highlights  
+
+### **Line-Following Robot – Advanced Mechatronics (2025 Tech Cup)**  
+- Built an **autonomous differential-drive robot** to complete a 40-foot white-line track.  
+- Designed lightweight chassis with **laser-cut & 3D printed parts**.  
+- Tuned a **PID control algorithm** for smooth, fast lap performance.  
+
+![Robot CAD](./assets/IMG_4967.jpeg) | ![Robot Prototype](./assets/IMG_4968.jpeg)  
+
+---
+
 ### **Product Design Engineer**  
 Segal Design Institute – DTC Program | *Sep 2022 – Jun 2023*  
 
@@ -80,17 +91,6 @@ Segal Design Institute – DTC Program | *Sep 2022 – Jun 2023*
 - Conducted **user research, interviews, and market analysis** to guide global product improvements.  
 
 ![Aeroflect Solar Dryer](./assets/treesthatfeed.png)  
-
----
-
-## 🚦 Project Highlights  
-
-### **Line-Following Robot – Advanced Mechatronics (2025 Tech Cup)**  
-- Built an **autonomous differential-drive robot** to complete a 40-foot white-line track.  
-- Designed lightweight chassis with **laser-cut & 3D printed parts**.  
-- Tuned a **PID control algorithm** for smooth, fast lap performance.  
-
-![Robot CAD](robotcad/robotCAD.png) | ![Robot Prototype](robotcad/IMG_4968.jpeg)  
 
 ---
 
