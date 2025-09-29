@@ -1,104 +1,124 @@
-# Daniel Kıllıoğlu
-_Junior Mechanical Engineering Student. <br>
-All things engineering, design, and music. Based in Chicago and Istanbul 🇹🇷🇺🇸_ <br>
+# Daniel Kıllıoğlu  
+🚀 *Mechanical Engineering Senior | Product Design & Mechatronics Enthusiast | Music Technologist*  
+📍 Chicago, USA & Istanbul, Turkey  
 
-[Email](mailto:danielklloglu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danielkillioglu/)
+[Email](mailto:danielklloglu@gmail.com) • [LinkedIn](https://www.linkedin.com/in/danielkillioglu/)  
 
-Hello! I am a third-year student pursuing an undergraduate Mechanical Engineering degree at Northwestern University's McCormick School of Engineering and Applied Science. I aim to combine my user-centered design and engineering knowledge to find practical and creative solutions with an aesthetic twist.
+---
 
-I take a special interest in the future of cars, music technology, and design. I always appreciate connecting with individuals who share my passion for design, tech, and vehicles. I am currently looking for internship opportunities that would help me cultivate and further hone skills in Automotive/Mechanical Engineering and challenge me intellectually. <br>
+## 👋 About Me  
 
-![NFR24](./assets/MeNFR24.png)
-<br>
+I’m a **senior Mechanical Engineering student at Northwestern University** with a minor in Music Technology. My passion lies at the intersection of **product design, mechatronics, and human-centered engineering**, where I strive to create solutions that are both **functional and aesthetically impactful**.  
 
-## 👨‍🎓 Education
-**Northwestern University**, Evanston, IL	<br> _(Sep 2022 - June 2026 (anticipated))_ <br>
-Bachelor of Science in Mechanical Engineering	_GPA: 3.8/4_ <br>
-Robert R. McCormick School of Engineering and Applied Sciences
+From designing **ergonomic consumer products** to developing **autonomous robots** and **fluid systems**, I thrive on projects that demand **creative problem solving, precision engineering, and cross-disciplinary collaboration**.  
 
-**Robert College**, Istanbul, TR _(Sep 2017 - June 2022)_
-<br>
+I am currently seeking **Product Design & Mechanical Engineering internships/full-time roles for 2025**, where I can apply my skills in **CAD design, prototyping, testing, and user-centered innovation** to bring ideas to life.  
 
-## ⚙️ Technical Skills
-  • **Computer-Based**: Siemens NX, SolidWorks, MATLAB, Python, Microsoft Office, Finite Element Analysis (FEA), 3DEXPERIENCE, Adobe Illustrator, Figma <br>
-  • **Manufacturing**: Computer-Aided Manufacturing (CAM), Laser Cutter, Prototyping, CNC, Molding, Injection Molding, Die Casting, Sheet Metal Forming <br>
-  • **Soft-Skills**: Work Ethic, Multicultural Communication, Adaptability, Effective Collaboration
-<br>
+---
 
-## 💬 Languages
+## 🎓 Education  
 
-🇺🇸 **English**: Native <br>
-🇹🇷 **Turkish**: Native <br>
-🇩🇪 **German**: Limited Working Proficiency <br>
+**Northwestern University**, Evanston, IL  
+*Bachelor of Science in Mechanical Engineering* | Minor in Music Technology  
+*Sep 2022 – Jun 2026 (anticipated)* | **GPA: 3.8/4.0**  
 
-## 🧑‍💻 Engineering Experience
+**Robert College**, Istanbul, TR  
+High School Diploma | *Sep 2017 – Jun 2022*  
 
-**Truck R&D Engineer Intern** @ Mercedes-Benz Türk A.S. _(July 2024 - October 2024)_ <br>
-  • Investigated a user-interacting component by kinematic simulation in Siemens NX and optimized it for ergonomics, cost, and injection molding <br>
-  • Analyzed stress concentrations on connection points of a sheet metal component with Finite Elements Analysis and developed a new concept, reducing stress concentrations by 40% <br>
-  • Designed a self-activating flap system with die cast components to accommodate a new electric truck charging feature, providing a low-cost alternative to a current solution <br>
-  • Coordinated simulation, prototyping, testing, and manufacturing processes of three new concepts via engineering drawings and GD&T <br>
+---
 
-![Actros Truck](./assets/MercTruck.png)
-<br>
+## ⚙️ Technical Skills  
 
-**Chassis and Suspension Design Engineer** @ [Northwestern Formula Racing]((https://northwesternformularacing.com/)) _(Sep 2022 - Present)_ <br>
-  • Designed pedal box, wheel hubs, and steering rack to Formula SAE regulations and manufacturability constraints <br>
-  • Implemented a new throttle return system consisting of torsional springs and rotational potentiometer for smoother throttle return and more precise throttle sensing <br>
-  • Manufactured parts in-house using Mill, Lathe, and CNC <br>
-  • Validated quality and function of final parts through throttle sensor analysis and field testing <br>
+- **CAD & Simulation:** Siemens NX, SolidWorks, 3DEXPERIENCE, FEA (ANSYS, NX)  
+- **Programming:** Python, MATLAB, C/C++, Embedded Systems, Control Systems  
+- **Manufacturing:** CNC, CAM, Injection Molding, Die Casting, Sheet Metal, 3D Printing, Laser Cutting  
+- **Design Tools:** Adobe Illustrator, Figma  
+- **Core Strengths:** Collaboration, Cross-Cultural Communication, Adaptability, Problem Solving  
 
-![Pedalbox Design in Solidworks](./assets/newpedalbox.png) <br>
-**Pedalbox in NFR24** <br>
-![Manufactured Pedalbox in Car](./assets/realpedalbox.png) <br>
-![Rear Hubs Design in Solidworks](./assets/HUBS.png) <br>
+---
 
-**System Dynamics Simulations using Python** <br>
-  • Used python code and dynamics equations to simulate various systems over time
-![Triple Pendulum Hitting a Wall](./assets/TriplePendulum.gif) <br>
-![Jack in a Box Simulation](./assets/jackinabox.gif) <br>
+## 🌍 Languages  
 
-**Unicycle Design**
-![Unicycle](./assets/Unicycle.png) <br>
+- 🇺🇸 **English**: Native  
+- 🇹🇷 **Turkish**: Native  
+- 🇩🇪 **German**: Limited Working Proficiency  
 
-**Product Design Engineer** @ [Segal Design Institute DTC Program]((https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/)) _(September 2022 - June 2023)_ <br>
-Worked on real design problems submitted by individuals, non-profits, entrepreneurs, and industry members. <br>
-<br>
-**Client**: Northwestern Formula Racing <br>
-Product: [_The Ark_](./theark.md) <br>
-  • Designed a durable, ergonomic, sustainable, and secure steering rack cover for a Formula SAE car <br>
-  • Improved driver safety and leg space while preserving ideal leg position for acceleration and braking <br>
-  
-![The Ark](./assets/theark1) <br>
+---
 
-**Client**: Trees That Feed Foundation <br>
-Product: [_Aeroflect_](./aeroflect.md) <br>
-  • Improved drying time of the Trees That Feed Foundation's Hybrid Solar Dryer by 15% used in affiliated fruit farms in over 14 countries <br>
-  • Performed user requirements research with bread fruit farmers to facilitate product advancements for global application; led in depth interviews with existing clients and performed market analysis of similar products <br>
+## 💼 Experience  
 
-**TTFF Hybrid Solar Dryer** <br>
-![Aeroflect](./assets/treesthatfeed.png) <br>
+### **Mechanical Engineering Intern – Truck R&D**  
+Mercedes-Benz Türk A.S. | *Jul 2024 – Oct 2024*  
+- Optimized ergonomics and manufacturability of user-interacting components via kinematic simulation.  
+- Reduced stress concentrations by **40%** through FEA-driven redesign of sheet-metal parts.  
+- Developed a **low-cost die-cast flap system** to support next-gen electric truck charging.  
+- Coordinated simulation, prototyping, and manufacturing workflows with detailed GD&T drawings.  
 
-**Air Flow Testing** <br>
-![Aeroflect](./assets/testing1.JPG) <br>
-![Aeroflect](./assets/testing2..JPG) <br>
-![Aeroflect](./assets/testing3.JPG) <br>
+![Mercedes Actros Truck](./assets/MercTruck.png)  
 
-**Final Air Channel + Mirror Updgrade Module** <br>
-![Aeroflect](./assets/aeroflectfinals.png) <br>
+---
 
-## 📊 Projects
+### **Chassis & Suspension Design Engineer**  
+[Northwestern Formula Racing](https://northwesternformularacing.com/) | *Sep 2022 – Present*  
+- Designed **pedal box, wheel hubs, and steering rack** under FSAE regulations.  
+- Integrated a **torsional spring + potentiometer throttle return system** for improved control and sensing.  
+- Manufactured CNC and lathe parts in-house and validated through testing.  
+- Collaborated with teammates to deliver **lighter, more reliable designs** that balanced engineering with usability.  
 
-**Head Content Manager and Outreach Coordinator** @ [The Loop Network](https://www.linkedin.com/company/the-loop-net-work/) [Instagram](https://www.instagram.com/thealtrockloop/?hl=en/) <br>
-_(September 2020 - October 2022)_ <br>
-  • Co-built an entertainment media network focused on arts & music <br>
-  • Oversaw and contributed to publication of 100+ articles, 3000+ posts and gained 40K+ followers <br>
-  • Streamlined content publishing process to increase weekly content output of each writer from 4 to 6 <br>
-  • Developed a more flexible monetization strategy to increase average revenue per account by 17% and customer retention by 11% <br>
-  • Used Adobe Illustrator, Photoshop, and Figma to create content <br>
+![Pedalbox CAD](./assets/newpedalbox.png) | ![Pedalbox in Car](./assets/realpedalbox.png)  
 
-**Radio Host** @ [89.3 WNUR-FM](https://wnur.northwestern.edu/) <br>
-_(September 2022 - Present)_ <br>
-  • Directed weekly rock radio shows with a focus on underground artists of greater Chicago area <br>
-  • Operated and set up broadcasting equipment such as transmitters, mixing boards, and microphones to produce highquality, balanced audio content for live shows
+---
 
+### **Product Design Engineer**  
+Segal Design Institute – DTC Program | *Sep 2022 – Jun 2023*  
+
+**Client: Northwestern Formula Racing** – *The Ark*  
+- Designed an **ergonomic, durable steering rack cover** enhancing safety & driver comfort.  
+
+**Client: Trees That Feed Foundation** – *Aeroflect*  
+- Boosted hybrid solar dryer efficiency by **15%**, benefiting farms in 14+ countries.  
+- Conducted **user research, interviews, and market analysis** to guide global product improvements.  
+
+![Aeroflect Solar Dryer](./assets/treesthatfeed.png)  
+
+---
+
+## 🚦 Project Highlights  
+
+### **Line-Following Robot – Advanced Mechatronics (2025 Tech Cup)**  
+- Built an **autonomous differential-drive robot** to complete a 40-foot white-line track.  
+- Designed lightweight chassis with **laser-cut & 3D printed parts**.  
+- Tuned a **PID control algorithm** for smooth, fast lap performance.  
+
+![Robot CAD](robotcad/robotCAD.png) | ![Robot Prototype](robotcad/IMG_4968.jpeg)  
+
+---
+
+### **System Dynamics Simulations (Python)**  
+- Modeled complex systems including pendulum dynamics and jack-in-a-box motion.  
+
+![Triple Pendulum](./assets/TriplePendulum.gif) | ![Jack in a Box](./assets/jackinabox.gif)  
+
+---
+
+### **Unicycle Design Concept**  
+Explored balance and dynamic stability through CAD modeling and analysis.  
+
+![Unicycle CAD](./assets/Unicycle.png)  
+
+---
+
+## 📌 Quick Facts  
+
+- 🛠️ Designed **consumer product concepts**, **lab fluid systems**, and **autonomous robots**.  
+- 🎵 Musician, producer, and DJ with a deep passion for **audio and product design**.  
+- 🌍 Experienced in **global collaboration** across U.S. and European teams.  
+
+---
+
+## 📫 Let’s Connect  
+
+I’m always excited to collaborate on projects in **product design, mechatronics, and engineering innovation**.  
+Reach me at [danielklloglu@gmail.com](mailto:danielklloglu@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/danielkillioglu/).  
+
+---
