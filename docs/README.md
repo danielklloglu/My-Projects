@@ -13,14 +13,14 @@ I’m a **senior Mechanical Engineering student at Northwestern University** wit
 From designing **ergonomic consumer products** to developing **autonomous robots** and **fluid systems**, I thrive on projects that demand **creative problem solving, precision engineering, and cross-disciplinary collaboration**.  
 
 I am currently seeking **Product Design & Mechanical Engineering internships/full-time roles for 2025**, where I can apply my skills in **CAD design, prototyping, testing, and user-centered innovation** to bring ideas to life.  
-
+![Me in Formula](./assets/MercTruck.png) 
 ---
 
 ## 🎓 Education  
 
 **Northwestern University**, Evanston, IL  
 *Bachelor of Science in Mechanical Engineering* | Minor in Music Technology  
-*Sep 2022 – Jun 2026 (anticipated)* | **GPA: 3.8/4.0**  
+*Sep 2022 – Jun 2026 (anticipated)* | **GPA: 3.9/4.0**  
 
 **Robert College**, Istanbul, TR  
 High School Diploma | *Sep 2017 – Jun 2022*  
