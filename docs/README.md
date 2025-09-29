@@ -40,8 +40,6 @@
   </tr>
 </table>
 
----
-
 ## 👋 About Me  
 
 I’m a **senior Mechanical Engineering student at Northwestern University** with a minor in Music Technology. My passion lies at the intersection of **product design, mechatronics, and human-centered engineering**, where I strive to create solutions that are both **functional and aesthetically impactful**.  
@@ -87,7 +85,9 @@ High School Diploma | *Sep 2017 – Jun 2022*
 *Glenview, IL | Jun 2025 – Aug 2025*  
 - **Designed and built AKBA’s first benchtop buffer-dilution system**, creating a fully functional prototype for testing and client demos.  
 - **Standardized a pressurized-vessel product line** by aggregating critical parameters from custom projects, cutting costs and improving lead times.  
-- **Improved drawings and BOMs** by correcting tolerances, refreshing legacy callouts, and clarifying hardware specs to streamline procurement and assembly.  
+- **Improved drawings and BOMs** by correcting tolerances, refreshing legacy callouts, and clarifying hardware specs to streamline procurement and assembly.
+
+![Robot CAD](./assets/asahi1.jpeg) | ![Robot Prototype](./assets/asahi2.jpeg)  
 
 ---
 
