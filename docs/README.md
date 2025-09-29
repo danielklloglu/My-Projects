@@ -122,7 +122,7 @@ Mercedes-Benz Türk A.S. | *Jul 2024 – Oct 2024*
 - Designed lightweight chassis with **laser-cut & 3D printed parts**.  
 - Tuned a **PID control algorithm** with nested **current + position loops** for smooth, fast lap performance.  
 
-![Robot CAD](./assets/robotCAD.png) | ![Robot Prototype](./assets/IMG_4968.jpeg)  
+![Robot Prototype](./assets/IMG_4959.jpeg)  
 
 ---
 
