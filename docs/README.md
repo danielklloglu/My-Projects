@@ -13,7 +13,7 @@ I’m a **senior Mechanical Engineering student at Northwestern University** wit
 From designing **ergonomic consumer products** to developing **autonomous robots** and **fluid systems**, I thrive on projects that demand **creative problem solving, precision engineering, and cross-disciplinary collaboration**.  
 
 I am currently seeking **Product Design & Mechanical Engineering internships/full-time roles for 2025**, where I can apply my skills in **CAD design, prototyping, testing, and user-centered innovation** to bring ideas to life.  
-![Me in Formula](./assets/MercTruck.png) 
+![Me in Formula](./assets/MeNFR24.png) 
 ---
 
 ## 🎓 Education  
