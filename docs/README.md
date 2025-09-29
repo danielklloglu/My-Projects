@@ -17,7 +17,7 @@
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Mercedes--Benz-Truck%20R%26D-black?style=for-the-badge&logo=mercedes&logoColor=white" /><br>
-      🚛 Reduced stress by **40%** & cut costs by 21% with new part designs
+      🚛 Reduced stress by 40% & cut costs by 21% with new part designs
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Formula%20SAE-Northwestern-purple?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
