@@ -1,5 +1,5 @@
 # Daniel Kıllıoğlu  
-🚀 *Mechanical Engineering Senior | Product Design & Mechatronics Enthusiast | Music Technologist*  
+🚀 *Mechanical Engineering Senior | Product Design & Mechatronics Enthusiast | Music Tech Fan*  
 📍 Chicago, USA & Istanbul, Turkey  
 
 [![Email](https://img.shields.io/badge/Email-danielklloglu%40gmail.com-red?style=flat-square&logo=gmail)](mailto:danielklloglu@gmail.com)
@@ -17,7 +17,7 @@
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Mercedes--Benz-Truck%20R%26D-black?style=for-the-badge&logo=mercedes&logoColor=white" /><br>
-      🚛 Reduced stress by 40% & cut costs by 21% with new part designs
+      🚛 Cabin Exterior R&D intern, worked on maintanance flap opening mechanisms and ergonomics
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Formula%20SAE-Northwestern-purple?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
@@ -27,11 +27,11 @@
   <tr>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Trees%20That%20Feed-Solar%20Dryer-green?style=for-the-badge&logo=leaflet&logoColor=white" /><br>
-      🌞 Boosted drying efficiency by 15%, airflow by 60%, in 14+ countries
+      🌞 Boosted drying efficiency of a hybrid solar dryer used over in 14 countries
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Advanced%20Mechatronics-Tech%20Cup-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" /><br>
-      🤖 Built a line-following robot with tuned PID control for racing
+      <img src="https://img.shields.io/badge/Mechatronics-Tech%20Cup-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" /><br>
+      🤖 Built a nimble line-following robot with tuned PID control for racing
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Global-Experience-teal?style=for-the-badge&logo=world&logoColor=white" /><br>
@@ -42,11 +42,12 @@
 
 ## 👋 About Me  
 
-I’m a **senior Mechanical Engineering student at Northwestern University** with a minor in Music Technology. My passion lies at the intersection of **product design, mechatronics, and human-centered engineering**, where I strive to create solutions that are both **functional and aesthetically impactful**.  
+I’m a senior mechanical engineering student at Northwestern University with a minor in Music Technology. My passion lies at the intersection of product design, mechatronics, and human-centered engineering, where I strive to create solutions that are both functional and aesthetically impactful.  
 
-From designing **ergonomic consumer products** to developing **autonomous robots** and **fluid systems**, I thrive on projects that demand **creative problem solving, precision engineering, and cross-disciplinary collaboration**.  
+From designing ergonomic consumer products to developing autonomous robots and fluid systems, I thrive on projects that demand creative problem solving, precision engineering, and cross-disciplinary collaboration.  
 
-I am currently seeking **Product Design & Mechanical Engineering internships/full-time roles for 2025**, where I can apply my skills in **CAD design, prototyping, testing, and user-centered innovation** to bring ideas to life.  
+I am currently seeking Product Design & Mechanical Engineering internships/full-time roles for 2026, where I can apply my skills in CAD design, prototyping, testing, and user-centered innovation to bring ideas to life.  
+
 ![Me in Formula](./assets/MeNFR24.png) 
 ---
 
